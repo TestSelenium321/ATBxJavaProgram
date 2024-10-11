@@ -27,6 +27,7 @@ public class Lab01_Printf {
 
         long sample4 = 767656565L;
         System.out.printf ("This is long data type %d",sample4);
+        System.out.println();
 
         //  %s -> String
         String sample5 = "Myprogram";
@@ -40,11 +41,11 @@ public class Lab01_Printf {
 
         double sample7 = 3.2342342342344;
         System.out.printf("This is double data type %f",sample7);
-
+        System.out.println();
         //%b -> boolean
 
         boolean sample8 = true;
-        System.out.printf("This is boolean data type %/b", sample8);
+        System.out.printf("This is boolean data type %b",  sample8);
 
 
 
