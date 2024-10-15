@@ -20,7 +20,13 @@ public class Lab01 {
 
         int f = 20;
         System.out.println(--f + f++ + f--);
-        //19+19+18
+
         //19+21+19
     }
 }
+
+
+/*The largest number is: 100
+        34
+        13
+        58 */
