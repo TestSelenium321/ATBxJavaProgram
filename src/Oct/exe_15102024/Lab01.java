@@ -16,6 +16,11 @@ public class Lab01 {
         int b = 70;
         int c= 100;
         int result = (a>=b && a>=c) ? a : (b>=c? b : c);
+
+        // Rough Logic
+        // a >=b && a >=c -> a : b >=c -> b : c
+
+        System.out.println("Max Number is -> " +  result);
         System.out.println("The largest number is: " + result );
         System.out.println();
 
