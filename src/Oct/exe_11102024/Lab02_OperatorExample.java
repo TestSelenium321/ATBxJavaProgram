@@ -109,3 +109,49 @@ public class Lab02_OperatorExample {
         System.out.println(w);
     }
 }
+
+/*
+90
+20
+1925
+1
+20
+---------
+true
+true
+false
+false
+c!=d=true
+false
+---------
+x&&y false
+x||y true
+!y true
+---------
+2
+4
+---------
+18
+16
+---------
+Result is: 15
+Result is: 10
+Result is: 50
+Result is: 10
+Result is: 0
+---------
+100
+---------
+1
+7
+6
+-6
+---------
+10
+4
+---------
+true
+9
+
+Process finished with exit code 0
+ */
