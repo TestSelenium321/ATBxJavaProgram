@@ -31,6 +31,9 @@ public class Lab08_Task1701 {
         else if (score >= 0 && score <= 59){
             System.out.println("Grade is: " + "F");
             }
+        else if (score <0 && score>100){  // always add edge case to the program
+            System.out.println("Thi is invalid, Please enter valid score");
+        }
         else{
             System.out.println("Number is not valid, Please enter the valid number");
         }
