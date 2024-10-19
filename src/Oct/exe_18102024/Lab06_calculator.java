@@ -34,19 +34,19 @@ public class Lab06_calculator {
                break;
             case '-':
                 int Subtraction = Num1-Num2;
-                System.out.println("The result is subtraction: " + "=" + (Num1-Num2));
+                System.out.println("The result is addition: " + Subtraction);
                break;
             case '*':
                 int Multiplication = Num1*Num2;
-                System.out.println("The result is multiplication: " + "=" + (Num1*Num2));
+                System.out.println("The result is addition: " + Multiplication);
                 break;
             case '/':
                 int Division = Num1/Num2;
-                System.out.println("The result is division: " + "=" + (Num1/Num2));
+                System.out.println("The result is addition: " + Division);
                 break;
             case '%':
                 int Modulous = Num1%Num2;
-                System.out.println("The result is Modulous: " + "=" + (Num1%Num2));
+                System.out.println("The result is addition: " + Modulous);
                break;
             default:
                 System.out.println("invalid, Please enter valid operator");
