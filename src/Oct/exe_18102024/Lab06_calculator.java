@@ -8,8 +8,6 @@ public class Lab06_calculator {
         // multiplication, and division, modus based on user input using switch statements.
         // Inputs :   num 1, num 2, +
           // Output :  num1+num2 → print information.
-
-
         //int Num1;
        // int Num2;
         System.out.println("Program for simple calculator based on user input and switch case");
