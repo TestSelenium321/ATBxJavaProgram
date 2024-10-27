@@ -20,9 +20,9 @@ public class Lab06_Task_Function {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter the first number");
+        System.out.print("Enter the first number: ");
         int a = scanner.nextInt();
-        System.out.print("Enter the second number");
+        System.out.print("Enter the second number: ");
         int b = scanner.nextInt();
 
         int result_sum = sum_of_numbers(a, b);
