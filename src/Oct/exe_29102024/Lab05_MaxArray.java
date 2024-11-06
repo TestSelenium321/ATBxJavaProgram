@@ -10,7 +10,7 @@ public class Lab05_MaxArray {
     }
 
          static int give_max (int[] array){
-         int max = array[0];
+         int max = array[0]; // // Initialize max with first element
          for (int i =0; i< array.length; i++){
            if (array[i] > max) {
             max = array[i];
