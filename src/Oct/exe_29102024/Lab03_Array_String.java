@@ -2,7 +2,7 @@ package Oct.exe_29102024;
 
 public class Lab03_Array_String {
     public static void main(String[] args) {
-        String[] names = {"pramod","amit","lucky"};
+       // String[] names = {"pramod","amit","lucky"};
         String[] names_atb9x = new String[3];
         names_atb9x[0] = "Aditi";
         names_atb9x[1] = "Jitin";
