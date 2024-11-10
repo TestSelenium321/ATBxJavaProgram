@@ -1,7 +1,12 @@
-package Nov_07112024_MultipleInhertitance;
+package Nov.ex_07112024_MultilevelInhertitance;
 
 public class MainMethodforExecution {
     public static void main(String[] args) {
+
+        //In multi-level inheritance, a class extends a class which in turn
+        // extends another class
+        //It forms a chain of inheritance (like a family tree in a straight line:
+        // Grandfather → Father → Son)
 
         Child c1 = new Child();
         c1.gf();

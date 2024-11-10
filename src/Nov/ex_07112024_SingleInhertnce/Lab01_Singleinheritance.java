@@ -1,4 +1,4 @@
-package Nov_07112024_SingleInhertnce;
+package Nov.ex_07112024_SingleInhertnce;
 
 
 public class Lab01_Singleinheritance {

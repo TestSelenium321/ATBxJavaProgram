@@ -1,4 +1,4 @@
-package Nov_07112024_Example3;
+package Nov.ex_07112024_Inheritance2;
 
 public class TestCase2 extends CommonBaseClass{
     public TestCase2(){

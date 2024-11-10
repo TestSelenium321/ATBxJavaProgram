@@ -1,4 +1,4 @@
-package Nov_07112024_Example2;
+package Nov.Nov_07112024_Inheritance1;
 
 public class Java extends Programming{
 
