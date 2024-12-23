@@ -11,7 +11,7 @@ public class LeapYearCheck {
         Scanner scanner = new Scanner(System.in);
 
         //Promt the user to enter the leap year
-        System.out.printf("Enter the year to check if the year is a leap year: ");
+        System.out.println("Enter the year to check if the year is a leap year: ");
         // Read the user input and store it in a int variable
         int year = scanner.nextInt();
 
