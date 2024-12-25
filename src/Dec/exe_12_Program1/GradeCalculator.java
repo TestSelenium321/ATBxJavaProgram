@@ -1,5 +1,7 @@
 package Dec.exe_12_Program1;
 
+import java.util.Scanner;
+
 /*Grade Calculator:
 Write a program that calculates and displays the letter grade for a
  given numerical score (e.g., A, B, C, D, or F) based on the following grading scale:
@@ -17,14 +19,16 @@ public class GradeCalculator {
         int score = 85;
         char grade;
 
+
+
         if (score >= 90 && score <=100) {
-            grade = 'A';
+           grade = 'A';
         }
         else if (score >=80 && score <=89){
             grade = 'B';
         }
         else if (score >=70 && score <=79) {
-            grade = 'C';
+           grade = 'C';
         }
         else if (score >=60 && score <=69){
             grade = 'D';

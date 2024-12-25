@@ -13,7 +13,11 @@ public class LeapYearCheck {
         //Promt the user to enter the leap year
         System.out.println("Enter the year to check if the year is a leap year: ");
         // Read the user input and store it in a int variable
-        int year = scanner.nextInt();
+       int year = scanner.nextInt();
+
+        //or we can use this
+
+        // int year = 2024;
 
         // Use an if-else statement to determine if it's a leap year
 
@@ -24,7 +28,7 @@ public class LeapYearCheck {
             System.out.println("Year is not a leap year: " + year);
         }
 
-        scanner.close();
+        //scanner.close();
 
     }
     }
